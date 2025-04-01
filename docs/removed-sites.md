@@ -1982,3 +1982,16 @@ __2025-02-16 :__ Unsure if any way to view profiles exists now
     "username_claimed": "t3dotgg"
   }
 ```
+
+## Habr Freelance
+__2025-03-01 :__ We have closed Habr Freelance, but we are always waiting for you in our other services.
+```json
+"Freelance.habr": {
+    "errorMsg": "<div class=\"icon_user_locked\"></div>",
+    "errorType": "message",
+    "regexCheck": "^((?!\\.).)*$",
+    "url": "https://freelance.habr.com/freelancers/{}",
+    "urlMain": "https://freelance.habr.com/",
+    "username_claimed": "adam"
+  }
+```
